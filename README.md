@@ -9,3 +9,9 @@ In this project, I will analyze a dataset and then communicate my findings about
 * NumPy<br>
 * Matplotlib<br>
 * csv
+
+
+## Files used
+* bikeshare_2.py<br>
+* raw file<br>
+* modified and cleaned file
